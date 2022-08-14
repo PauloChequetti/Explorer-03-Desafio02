@@ -1,4 +1,5 @@
-# Explorer-03-Desafio02
+# Desafio 02, Nível 03 - Explorer
+
 Nesse desafio, foi proposto a recriação do layout de formulário seguindo apenas o Figma. <br>
 Link Figma: https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio?node-id=0%3A1
 
